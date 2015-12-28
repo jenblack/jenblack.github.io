@@ -1,0 +1,32 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two:400italic);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+body { background-color: black;}
+body {font-family: 'Rock Salt', cursive;}
+body {font-size: 62px;}
+
+
+
+body {
+	color: #F6D8CE;}
+
+	h1 {color: #0022FF;}
+	h1 {font-family: 'Lobster Two', cursive;}
+	h1 {font-size: 24px;}
+
+	h2 {color:#0022FF;}
+	h2 {font-size: 26px;}
+	h2 {font-family: 'Lobster Two', cursive;}
+
+	ul {font-size: 24px;}
+	ul {font-family: "tahoma";}
+	ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+	h3 {font-color: #F8D4CB;}
+
+	h3 {font-size: 24px;}
+
+	h3 {font-family: 'Rock Salt', cursive;}
