@@ -1,0 +1,49 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two:400italic);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+
+body {font-family: 'Rock Salt', cursive;}
+body {font-size: 48px;}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color:#FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+ 	background-color: #FFE2B8;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ 	font: tahoma;
+ }
+
+ 	article { 
+ 	 background-color: #E89C6C
+ 	 border: 1px black solid;
+ 	 padding: 20px;
+ 	}
+
+ footer {
+ 	background-color: #FF957E;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+
